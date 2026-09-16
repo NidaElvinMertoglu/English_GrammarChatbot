@@ -42,4 +42,14 @@ A standalone version that combines both training and UI launching logic. It is u
 - **Libraries:** `transformers`, `torch`, `gradio`, `pandas`, `datasets`.
 
 ---
+## Authors & Contributors
+
+This project was co-developed as a collaborative effort by:
+
+* **Nida Elvin Mertoğlu** – Computer Engineering Graduate
+  * *Roles:* Jointly designed and implemented the sequence-to-sequence NLP pipeline, T5-base model fine-tuning architecture, inference logic, and Gradio web interface development.
+* **Ecem Şimşek** – Computer Engineering Student
+  * *Roles:* Jointly designed and implemented the sequence-to-sequence NLP pipeline, T5-base model fine-tuning architecture, inference logic, and Gradio web interface development.
+
+---
 *Focusing on the intersection of deep learning and linguistics for automated writing assistance.*
