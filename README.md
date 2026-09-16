@@ -46,9 +46,9 @@ A standalone version that combines both training and UI launching logic. It is u
 
 This project was co-developed as a collaborative effort by:
 
-* **Nida Elvin Mertoğlu** – Computer Engineering Graduate
+* **Nida Elvin Mertoğlu**
   * *Roles:* Jointly designed and implemented the sequence-to-sequence NLP pipeline, T5-base model fine-tuning architecture, inference logic, and Gradio web interface development.
-* **Ecem Şimşek** – Computer Engineering Student
+* **Ecem Şimşek**
   * *Roles:* Jointly designed and implemented the sequence-to-sequence NLP pipeline, T5-base model fine-tuning architecture, inference logic, and Gradio web interface development.
 
 ---
